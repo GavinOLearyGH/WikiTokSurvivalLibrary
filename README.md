@@ -1,55 +1,27 @@
-# WikiTok
+# PrepTok
 
-A TikTok-style interface for exploring random Wikipedia articles in multiple languages.
+PrepTok is a TikTok-style app focused on delivering survival, prepping, and self-sufficiency content. It pulls articles from Wikipedia, covering various categories like survival skills, food storage, first aid, and more. The app presents random articles in a fun, engaging way, helping users learn about topics that are crucial for emergency preparedness and self-reliance.
 
 ## Features
 
-- Vertical scrolling feed of random Wikipedia articles
-- Support for 14 languages including English, Spanish, French, German, Chinese, Japanese and more
-- Article previews with images, titles and excerpts
-- Share articles directly or copy links
-- Language selector with country flags
-- Preloading of images and content for smooth scrolling
-- Responsive design that works on mobile and desktop
-- Progressive Web App (PWA) support for installing as a standalone app
+- **Survival Skills**: Learn the essential skills for surviving in various situations such as wilderness, urban environments, and more.
+- **Food & Water Storage**: Discover tips and techniques for food storage, preservation, and water purification.
+- **Self-Sufficiency**: Explore homesteading, off-grid living, and sustainable farming practices.
+- **Emergency Preparedness**: Stay informed about how to prepare for natural disasters, pandemics, and civil unrest.
+- **First Aid & Medical**: Gain knowledge on basic first aid and survival medical guides.
+- **Weapons & Self-Defense**: Understand the basics of self-defense, weapons, and security strategies.
+- **Random Articles**: The app randomly displays articles from various categories, encouraging users to explore new and interesting topics.
 
-## Tech Stack
+## How It Works
 
-- React 18
-- TypeScript
-- Tailwind CSS
-- Vite
+1. **Random Article Generation**: Each time you open the app, a random article from a survival-related category is displayed.
+2. **Categories**: Articles come from a list of categories related to prepping, survival, food storage, first aid, and much more.
+3. **User Interface**: The app has a TikTok-style interface where users can swipe through articles, read them, and discover new survival topics.
+4. **Educational & Engaging**: The articles are pulled from Wikipedia, ensuring that the information is reliable and informative.
 
-## Development
 
-Run the commands below in the `/frontend` folder.
 
-1. Install dependencies:
 
-```bash
-bun install
-```
 
-2. Run development server:
 
-```bash
-bun run dev
-```
-
-No backend required!
-
-## Demo
-
-Check it out here at [wikitok.vercel.app](https://wikitok.vercel.app) or [wikitok.io](https://www.wikitok.io)
-
-**Note:** This is the original WikiTok web project, not affiliated with wikitok.net or the independently developed WikiTok iPhone app.
-
-## Contributing
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes and commit them
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+   

@@ -19,9 +19,28 @@ PrepTok is a TikTok-style app focused on delivering survival, prepping, and self
 3. **User Interface**: The app has a TikTok-style interface where users can swipe through articles, read them, and discover new survival topics.
 4. **Educational & Engaging**: The articles are pulled from Wikipedia, ensuring that the information is reliable and informative.
 
+## Tech Stack
+React 18
+TypeScript
+Tailwind CSS
+Vite
 
+##Development
+Run the commands below in the /frontend folder.
 
+1. Install dependencies:
+bun install
+2. Run development server:
+bun run dev
+No backend required!
 
+##Contributing
+Fork the repository
+Create a new branch
+Make your changes and commit them
+
+##License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 
    
